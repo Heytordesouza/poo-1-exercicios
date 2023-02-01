@@ -10,6 +10,7 @@ CREATE TABLE videos (
 INSERT INTO videos (id, title, seconds)
 VALUES
 	("u001", "Chega de Bananinha", 20 ),
-	("u002", "Chega de Pokemóns", 15 );
+	("u002", "Chega de Pokemóns", 15 ),
+    ("u003", "Entendendo POO", 950);
 
 DROP Table videos
